@@ -1,2 +1,2 @@
 # Python
-Simple Python Program c
+Simple Python programs for learning purposes only. 
