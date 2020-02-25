@@ -1,0 +1,5 @@
+print("Computer Science")
+print("University of Windsor")
+print("401 Sunset Avenue")
+print("Windsor,Ontario")
+print("Canada")
